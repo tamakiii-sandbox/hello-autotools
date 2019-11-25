@@ -3,8 +3,13 @@
 /autoscan.log
 /autom4te.cache/
 /Makefile.in
+/Makefile
 /aclocal.m4
 /compile
 /depcomp
 /install-sh
 /missing
+/configure
+/config.log
+/config.status
+/stamp-h1
