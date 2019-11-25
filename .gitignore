@@ -1,5 +1,7 @@
 *.o
 *~
+.deps
+.dirstamp
 /etc
 /autoscan.log
 /autom4te.cache/
@@ -11,3 +13,4 @@
 /config.log
 /config.status
 /stamp-h1
+/hello
