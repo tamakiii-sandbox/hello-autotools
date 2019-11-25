@@ -1,2 +1,10 @@
+*.o
+*~
 /autoscan.log
 /autom4te.cache/
+/Makefile.in
+/aclocal.m4
+/compile
+/depcomp
+/install-sh
+/missing
