@@ -1,0 +1,16 @@
+*.o
+*~
+.deps
+.dirstamp
+/etc
+/autoscan.log
+/autom4te.cache/
+/Makefile.in
+/Makefile
+/aclocal.m4
+/depcomp
+/configure
+/config.log
+/config.status
+/stamp-h1
+/hello
